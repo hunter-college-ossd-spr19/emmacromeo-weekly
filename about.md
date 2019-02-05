@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+My name is Emma, I'm a student at hunter planning on graduating at the end of 2019. 
+Mhy blog will review the work I'm doing in- and out-side of class to learn about and contribute to free and open source software.
