@@ -7,13 +7,13 @@
 # Name of your site (displayed in the header)
 # Replace "Your Name" below either by your real name or by a nickname if you
 # would prefer not to show your real anme.
-name: Your Name
+name: Emma
 
 # CUSTOMIZE
 # Short bio or description (displayed in the header)
 # Replace "Course Name" and "Semester" by the actual course name and semester,
 # e.g.: CSci 395.86 Open Source Software Development, Spring 2019
-description: Course Name, Semester
+description: CSci 395.86 Open Source Software Development, Spring 2019
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -26,10 +26,10 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: emma.romeo53@myhunter.cuny.edu
   facebook:
   flickr:
-  github:        # your GitHub username
+  github: emmacromeo       # your GitHub username
   instagram:
   linkedin:
   pinterest:
