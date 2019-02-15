@@ -44,7 +44,7 @@ footer-links:
 # You must replace the last part of the URL, i.e., the word "weekly", by the 
 # name of your own repository, which must be of the form, "your-username-weekly"
 # where "your-username" is your GitHub username.
-url: "https://hunter-college-ossd-spr19.github.io/weekly" 
+url: "https://hunter-college-ossd-spr19.github.io/emmacromeo-weekly" 
 
 # CUSTOMIZE
 # The baseurl is used by Jekyll as a relative repository name.
@@ -52,7 +52,7 @@ url: "https://hunter-college-ossd-spr19.github.io/weekly"
 # which must be of the form, "your-username-weekly"
 # where "your-username" is your GitHub username. It must begin with the "/" -
 # do not remove it.
-baseurl: "/weekly"
+baseurl: "/emmacromeo-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
